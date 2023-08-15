@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Install dependencies
-You can use ### `npm i` or `yarn`
+You can use 
+### `npm i` or `yarn`
 
 ## Available Scripts
 
